@@ -1,0 +1,39 @@
+html{
+    height: 100vh;
+    background: linear-gradient(rgb(164, 164, 250),20%,rgb(245, 200, 207));
+}
+.heading{
+    font-size: xx-large;
+    font-weight: 800;
+    text-shadow: 5px 5px 5px aqua;
+}
+.main{
+    text-align: center;
+}
+.components{
+    margin-top: 50px;
+}
+.btn1,.btn2{
+    height: 60px;
+    width: 370px;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin-top: 40px;
+    font-size: large;
+    font-weight: 600;
+    padding: 10px;
+}
+.btn1:hover{
+    background-color: aqua;
+}
+.btn2:hover{
+    background-color: rgb(212, 206, 218);
+}
+.btn1{
+    background-color: aquamarine;
+    margin-right: 40px;
+}
+.btn2{
+    background-color: blueviolet;
+    margin-left: 50px;
+}
